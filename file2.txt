@@ -5,8 +5,3 @@ thực hiện thay đổi để chuyển sang nhánh khác nhưng chưa commit
 
 them một nội dung mới vào file để thực hiện kiếm tra lệnh git restore
 
-
-commit A
-commit B
-commit C
-commit D
