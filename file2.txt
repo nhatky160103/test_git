@@ -9,3 +9,4 @@ them một nội dung mới vào file để thực hiện kiếm tra lệnh git 
 commit A
 commit B
 commit C
+commit D
